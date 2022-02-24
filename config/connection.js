@@ -1,0 +1,1 @@
+// Create connection with mongoose and export it
